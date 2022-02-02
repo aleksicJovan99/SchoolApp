@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj": {}
+    "/Users/jovan/Documents/SchoolAppGit/SchoolApp/SchoolApp.csproj": {}
   },
   "projects": {
-    "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj": {
+    "/Users/jovan/Documents/SchoolAppGit/SchoolApp/SchoolApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj",
+        "projectUniqueName": "/Users/jovan/Documents/SchoolAppGit/SchoolApp/SchoolApp.csproj",
         "projectName": "SchoolApp",
-        "projectPath": "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj",
+        "projectPath": "/Users/jovan/Documents/SchoolAppGit/SchoolApp/SchoolApp.csproj",
         "packagesPath": "/Users/jovan/.nuget/packages/",
-        "outputPath": "/Users/jovan/Desktop/gitProject/SchoolApp/obj/",
+        "outputPath": "/Users/jovan/Documents/SchoolAppGit/SchoolApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jovan/.nuget/NuGet/NuGet.Config"

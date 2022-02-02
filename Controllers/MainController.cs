@@ -42,6 +42,22 @@ public class MainController : ControllerBase
         return Ok();
     }
 
+    [HttpPost]
+    [Route("school/range")]
+    public IActionResult InsertRangeSchool(List<SchoolDto> schoolDtos)
+    {
+        foreach (var s in schoolDtos)
+        {
+            var school = new School()
+            {
+                SchoolName = s.SchoolName
+            };
+            _repository.Insert<School>(school);
+        }
+        _repository.Save();
+        return Ok();
+    }
+    
     [HttpGet]
     [Route("student")]
     public IActionResult GetAllStudents()

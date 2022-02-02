@@ -8,5 +8,7 @@ public interface IGenericRepository
    void Delete<T>(int id) where T : class;
 
    T GetById<T>(int id) where T : class;
+   public void AddRange<T>(IEnumerable<T> entities) where T : class;
+
    void Save();
 }

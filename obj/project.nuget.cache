@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OY580FbjMTXwQI3xfYAMNMAcxb2X6sikeCPm/FGZaFcpvGrGFT9XAL6634siDsFeNjHiv+JAG2TryflzTIFo9g==",
+  "dgSpecHash": "NRT7vmgVNAdLrsPrCeVHYWF/O9ZVs6+9AYWSwBe8I1WKkFpH8czpSqtIUuXDuikXwThx5uIDXDkAGokI92/ddQ==",
   "success": true,
-  "projectFilePath": "/Users/jovan/RiderProjects/SchoolApp/SchoolApp/SchoolApp.csproj",
+  "projectFilePath": "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj",
   "expectedPackageFiles": [
     "/Users/jovan/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/jovan/.nuget/packages/microsoft.entityframeworkcore/6.0.1/microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

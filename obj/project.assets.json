@@ -907,11 +907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jovan/RiderProjects/SchoolApp/SchoolApp/SchoolApp.csproj",
+      "projectUniqueName": "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj",
       "projectName": "SchoolApp",
-      "projectPath": "/Users/jovan/RiderProjects/SchoolApp/SchoolApp/SchoolApp.csproj",
+      "projectPath": "/Users/jovan/Desktop/gitProject/SchoolApp/SchoolApp.csproj",
       "packagesPath": "/Users/jovan/.nuget/packages/",
-      "outputPath": "/Users/jovan/RiderProjects/SchoolApp/SchoolApp/obj/",
+      "outputPath": "/Users/jovan/Desktop/gitProject/SchoolApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jovan/.nuget/NuGet/NuGet.Config"

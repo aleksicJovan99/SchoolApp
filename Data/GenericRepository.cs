@@ -33,6 +33,11 @@ public class GenericRepository : IGenericRepository
         return obj;
     }
 
+    public void AddRange<T>(IEnumerable<T> entities) where T : class
+    {
+        _context.Set<T>().AddRange(entities);
+    }
+
     public void Save()
     {
         _context.SaveChanges();
